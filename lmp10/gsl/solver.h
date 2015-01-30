@@ -1,5 +1,5 @@
-#ifndef SOlVER_H
-#define SOlVER_H
+#ifndef SOLVER_H
+#define SOLVER_H
 #include "matrix.h"
 #include <stdio.h>
 
