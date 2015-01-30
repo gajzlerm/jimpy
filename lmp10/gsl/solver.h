@@ -1,5 +1,5 @@
-#ifndef GSL_ESOVER_H
-#define GSL_ESOVER_H
+#ifndef SOlVER_H
+#define SOlVER_H
 #include "matrix.h"
 #include <stdio.h>
 
